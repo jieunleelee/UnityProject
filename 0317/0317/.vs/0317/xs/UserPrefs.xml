@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{5DA6DA66-ABC0-74A0-A1B8-90B59AB72962}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/LJE_1stStairsMove.cs">
+    <Files>
+      <File FileName="Assets/Scripts/LJE_FruitsMove.cs" Line="30" Column="13" />
+      <File FileName="Assets/Scripts/LJE_CameraRotate.cs" />
+      <File FileName="Assets/Scripts/LJE_3rdCandle.cs" />
+      <File FileName="Assets/Scripts/LJE_PlayerMove.cs" />
+      <File FileName="Assets/Scripts/LJE_1stStairsMove.cs" Line="16" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="0317" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Physics" selected="True" />
+              <Node name="Scripts" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Unity" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="51d084ca-63f8-4aa0-ae79-46dd6082a9b2" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
